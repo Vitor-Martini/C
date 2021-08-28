@@ -1,2 +1,0 @@
-# C
-Algoritmos em C
